@@ -1,2 +1,2 @@
 # AISuggesterAI
-fkrg.nl/aiproject
+http://fkrg.nl/aiproject
